@@ -1,0 +1,16 @@
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.exe
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.deps.json
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.json
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.runtimeconfig.dev.json
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.dll
+F:\Repos\BankEncapsulation\bin\Debug\net5.0\BankEncapsulation.pdb
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.AssemblyReference.cache
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfoInputs.cache
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.AssemblyInfo.cs
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.csproj.CoreCompileInputs.cache
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.dll
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\refint\BankEncapsulation.dll
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.pdb
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\BankEncapsulation.genruntimeconfig.cache
+F:\Repos\BankEncapsulation\obj\Debug\net5.0\ref\BankEncapsulation.dll
