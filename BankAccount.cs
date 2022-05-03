@@ -6,25 +6,35 @@ using System.Threading.Tasks;
 
 namespace BankEncapsulation
 {
-    public class BankAccount
+    class BankAccount
     {
-        
-        private double balance = 0;
-              
+        private double _balance = 0;
 
+        public BankAccount()
+        {
+            
+        }
+                     
         public void Deposit(double depositAmount)
         {
-            balance += depositAmount;
+            _balance += depositAmount;
         }
-        
-        public double GetBalance()
+               
+        public double Withdraw(double withdrawal)
         {
-            return balance;
+            _balance -= withdrawal;
+            return _balance;    
             
         }
 
-       
-        
+        public void GetBalance()
+        {
+            Console.WriteLine(_balance);
+            
+        }
+
+
+
 
 
 

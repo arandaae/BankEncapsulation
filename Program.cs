@@ -13,9 +13,29 @@ namespace BankEncapsulation
         {
             var userAccount = new BankAccount();
 
-            userAccount.Deposit(100);
+            Console.WriteLine("Enter your deposit amount");
+            var amount = double.Parse(Console.ReadLine());
+
+            userAccount.Deposit(amount);
+
+            Console.WriteLine();
+
+            Console.WriteLine($"Your Balance is now:");
+            
             userAccount.GetBalance();
-            Console.WriteLine(userAccount);
+
+            Console.WriteLine();
+
+            Console.WriteLine("Would you like to make a withdrawal?");
+            var amount2 = double.Parse(Console.ReadLine());
+            userAccount.Withdraw(amount2);
+
+            Console.WriteLine();
+
+            Console.WriteLine($"Your Balance is now:");
+
+            userAccount.GetBalance();
+
 
         }
     }
